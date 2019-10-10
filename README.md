@@ -1,1 +1,1 @@
-# Open-Moon-Catalogue
+# Open Moon Catalogue
