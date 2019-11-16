@@ -1,13 +1,364 @@
 <?xml version="1.0" encoding="UFT-8"?>
-<catalogue id="root" type="attributive" language="en">
-	<celestial-bodies id="celestial-bodies">
-		<object id="earth" name="Earth" type="planet" />
-		<object id="mars" name="Mars" type="planet" />
-		<object id="jupiter" name="Jupiter" type="planet" />
-		<object id="saturn" name="Jupiter" type="planet" />
-		<object id="uranus" name="Jupiter" type="planet" />
-		<object id="neptune" name="Neptune" type="planet" />
-		<object id="pluto" name="Pluto" type="dwarfplanet" />
-		<object id="kalliope" name="Kalliope" type="asteroid" />
+<catalogue namespace="astro://open-moon-catalogue" id="root" type="attributive" language="en">
+	<celestial-bodies id="celestial-bodies" reference-ref="wikpedia.liste-der-monde-von-asteroiden">
+		<object id="earth" name="Earth" type="planet" moon-ref="" />
+		<object id="mars" name="Mars" type="planet" moon-ref="" />
+		<object id="jupiter" name="Jupiter" type="planet" moon-ref="" />
+		<object id="saturn" name="Saturn" type="planet" moon-ref="" />
+		<object id="uranus" name="uranus" type="planet" moon-ref="" />
+		<object id="neptune" name="Neptune" type="planet" moon-ref="" />
+		<object id="kalliope" name="(22) Kalliope" type="asteroid" moon-ref="" />
+		<object id="Daphne" name="(41) Daphne" type="asteroid" moon-ref="" />
+		<object id="Eugenia" name="(45) Eugenia" type="asteroid" moon-ref="" />
+		<object id="Sylvia" name="(87) Sylvia" type="asteroid" moon-ref="" />
+		<object id="Antiope" name="(90) Antiope" type="asteroid" moon-ref="" />
+		<object id="Minerva" name="(93) Minerva" type="asteroid" moon-ref="" />
+		<object id="Camilla" name="(107) Camilla" type="asteroid" moon-ref="" />
+		<object id="Amalthea" name="(113) Amalthea" type="asteroid" moon-ref="" />
+		<object id="Hermione" name="(121) Hermione" type="asteroid" moon-ref="" />
+		<object id="Elektra" name="(130) Elektra" type="asteroid" moon-ref="" />
+		<object id="Kleopatra" name="(216) Kleopatra" type="asteroid" moon-ref="" />
+		<object id="Ida" name="(243) Ida" type="asteroid" moon-ref="" />
+		<object id="Emma" name="(283) Emma" type="asteroid" moon-ref="" />
+		<object id="Roxane" name="(317) Roxane" type="asteroid" moon-ref="" />
+		<object id="Huenna" name="(379) Huenna" type="asteroid" moon-ref="" />
+		<object id="Patroclus" name="(617) Patroclus" type="asteroid" moon-ref="" />
+		<object id="Hektor" name="(624) Hektor" type="asteroid" moon-ref="" />
+		<object id="Alauda" name="(702) Alauda" type="asteroid" moon-ref="" />
+		<object id="Pulcova" name="(762) Pulcova" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(809) Lundia" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(854) Frostia" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(939) Isberga" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1016) Anitra" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1052) Belgica" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1089) Tama" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1139) Atami" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1313) Berna" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1333) Cevenola" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1338) Duponta" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1344) Caubeta" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1453) Fennia" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1509) Esclangona" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1717) Arlon" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1727) Mette" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1770) Schlesinger" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1798) Watts" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1830) Pogson" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1862) Apollo" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(1866) Sisyphus" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2006) Polonskaya" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2044) Wirt" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2047) Smetana" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2070) Humason" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2121) Sevastopol" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2131) Mayall" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2178) Kazakhstania" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2242) Balaton" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2337) Boubín" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2343) Siding Spring" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2449) Kenos" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2478) Tokai" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2486) Metsähovi" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2491) Tvashtri" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2535) Hämeenlinna" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2577) Litva" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2623) Zech" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2691) Sersic" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2754) Efimov" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2815) Soma" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2825) Crosby" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(2881) Meiden" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3034) Climenhaga" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3073) Kursk" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3122) Florence" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3169) Ostro" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3309) Brorfelde" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3378) Susanvictoria" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3433) Fehrenbach" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3623) Chaplin" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3671) Dionysus" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3673) Levy" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3703) Volkonskaya" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3749) Balam" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3782) Celle" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3792) Preston" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3841) Dicicco" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3868) Mendoza" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3873) Roddy" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3905) Doppler" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3951) Zichichi" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(3982) Kastel" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4029) Bridges" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4272) Entsuji" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4296) van Woerkom" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4383) Suruga" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4435) Holt" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4440) Tchantchès" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4492) Debussy" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4514) Vilen" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4541) Mizuno" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4607) Seilandfarm" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4666) Dietz" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4674) Pauling" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4765) Wasserburg" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4786) Tatianina" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4868) Knushevia" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(4951) Iwamoto" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5112) Kusaji" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5143) Heracles" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5261) Eureka" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5381) Sekhmet" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5402) Kejosmith" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5407) 1992 AX" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5425) Vojtech" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5426) Sharp" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5474) Gingasen" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5477) Holmes" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5481) Kiuchi" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5536) Honeycutt" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5646) 1990 TR" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5674) Wolff" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5872) Sugano" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5899) Jedicke" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(5905) Johnson" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6016) Carnelli" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6084) Bascom" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6100) Kunitomoikkansai" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6181) Bobweber" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6186) Zenon" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6244) Okamoto" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6245) Ikufumi" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6265) 1985 TW3" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6369) 1983 UC" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6384) Kervin" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6615) Plutarchos" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(6708) Bobbievaile" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7088) Ishtar" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7187) Isobe" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7225) Huntress" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7344) Summerfield" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7369) Gavrilin" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7393) Luginbuhl" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7888) 1993 UC" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(7958) Leakey" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(8026) Johnmckay" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(8077) Hoyle" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(8116) Jeanperrin" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(8306) Shoko" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(8373) Stephengould" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(8474) Rettig" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(9069) Hovland" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(9260) Edwardolson" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(9617) Grahamchapman" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(9783) Tensho-kan" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(9972) Minoruoda" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(10123) Fideoja" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(10132) Lummelunda" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(10208) Germanicus" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(11217) 1999 JC4" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(11227) Ksenborisova" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(11264) Claudiomaccone" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(12008) Kandrup" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(12326) Shirasaki" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(13123) Tyson" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(15268) Wendelinefroger" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(15430) 1998 UR31" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(15700) 1987 QD" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(15745) Yuliya" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(15822) 1994 TV15" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(16525) Shumarinaiko" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(16635) 1993 QO" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(16974) Iphthime" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(17246) Christophedumas" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(17260) Kušnirák" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(17365) 1978 VF11" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(17700) 1997 GM40" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(18527) 1996 VJ30" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(18890) 2000 EV26" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(20325) Julianoey" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(20882) 2000 VH57" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(21436) Chaoyichi" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(22899) Alconrad" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(23621) 1996 PA" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(24465) 2000 SX155" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(24495) Degroff" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(25015) 1998 QN2" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(26074) Carlwirtz" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(26308) 1998 SM165" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(26416) 1999 XM84" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(26471) Tracybecker" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(27568) 2000 PT6" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(27675) 1981 CH" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(29314) Eurydamas" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(31345) 1998 PG" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(31450) Stevepreston" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(32008) Adriángalád" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(32039) 2000 JO23" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(34706) 2001 OP83" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(35107) 1991 VH" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(38628) Huya" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(42355) Typhon" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(43008) 1999 UD31" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(44620) 1999 RS43" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(46829) McMahon" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(47171) Lempo" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(47171) Lempo" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(48639) 1995 TL8" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(50000) Quaoar" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(51356) 2000 RY76" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(52316) Daveslater" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(53110) 1999 AR7" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(53432) 1999 UT55" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(54697) 2001 FA70" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(55637) 2002 UX25" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(58534) Logos" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(60458) 2000 CM114" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(60621) 2000 FE8" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(65489) Ceto" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(65803) Didymos" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(66063) 1998 RO1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(66391) Moshup" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(66652) Borasisi" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(68063) 2000 YJ66" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(69230) Hermes" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(69406) 1995 SX48" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(76818) 2000 RG79" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(79360) Sila" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(79472) Chiorny" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(80218) 1999 VO123" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(80806) 2000 CM105" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(82075) 2000 YW134" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(82157) 2001 FM185" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(85938) 1999 DJ4" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(88611) Teharonhiawako" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(88710) 2001 SL9" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(90482) Orcus" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(99913) 1997 CZ5" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(100015) 1989 SR7" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(114319) 2002 XD58" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(119067) 2001 KP76" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(119979) 2002 WC19" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(120347) Salacia" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(123509) 2000 WK183" type="asteroid" moon-ref="" />
+		<object id="pluto" name="(134340) Pluto" type="dwarfplanet" moon-ref="" />
+		<object id="kalliope" name="(134860) 2000 OJ67" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(136108) Haumea" type="dwarfplanet" moon-ref="" />
+		<object id="kalliope" name="(136199) Eris" type="dwarfplanet" moon-ref="" />
+		<object id="kalliope" name="(136472) Makemake" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(136617) 1994 CC" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(136993) 1998 ST49" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(137170) 1999 HF1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(138095) 2000 DK79" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(139775) 2001 QG298" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(148780) Altjira" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(153591) 2001 SN263" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(153591) 2001 SN263" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(160091) 2000 OL67" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(160256) 2002 PD149" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(162000) 1990 OS" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(162483) 2000 PJ5" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(163693) Atira" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(164121) 2003 YT1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(164121) 2003 YT1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(175706) 1996 FG3" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(182933) 2002 GZ31" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(185851) 2000 DP107" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(190166) 2005 UP156" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(190208) 2006 AQ" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(208996) 2003 AZ84" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(218144) 2002 RL66" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(225088) 2007 OR10" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(226514) 2003 UX34" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(229762) Gǃkúnǁ’hòmdímà" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(275809) 2001 QY297" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(276049) 2002 CE26" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(285263) 1998 QE2" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(285263) 1998 QE2" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(303712) 2005 PR21" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(303712) 2001 QL142" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(311066) 2004 DC" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(341520) Mors" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(348400) 2005 JF21" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(357439) 2004 BL86" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(363027) 1998 ST27" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(363067) 2000 CO101" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(363599) 2004 FG11" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(364171) 2006 JZ81" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(374851) 2006 VV2" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(385186) 1994 AW1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(385446) Manwë" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(399307) 1991 RJ2" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(399774) 2005 NB7" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(410777) 2009 FD" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(450894) 2008 BT18" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(452561) 2005 AB" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(461852) 2006 GY2" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(469420) 2001 XP254" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(469505) 2003 FE128" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(469514) 2003 QA91" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(469705) 2005 EF298" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(481532) 2007 LE" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(488453) 1994 XD" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(494658) 2000 UG11" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(508788) 2000 CQ114" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(508869) 2000 VT130" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(523624) 2008 CT190" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(523624) 2008 CT190" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(523775) 2014 YB35" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(523983) 1999 RY214" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(524217) 2001 RZ143" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(524366) 2001 XR254" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(524531) 2002 XH91" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(525462) 2005 EO304" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(525816) 2005 SF278" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="(532037) 2013 FY27" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="1994 CJ1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="1998 WV24" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="1998 WW31" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="1999 OJ4" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="1999 RT214" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="1999 XY143" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2000 CF105" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2000 QL251" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2000 WT169" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2001 FL185" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2001 QC298" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2001 QQ322" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2001 QW322" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2002 BM26" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2002 KK8" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2002 VF130" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 HG57" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 QR91" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 QY90" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 SS84" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 TJ58" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 UN284" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 WU188" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 YS179" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2003 YU179" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2004 KB19" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2004 KH19" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2004 PB108" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2005 GD187" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2005 VZ122" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2005 YQ96" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2006 BR284" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2006 CH69" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2006 SF369" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2007 DT103" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2013 WT44" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2014 LQ28" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2014 WZ120" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2015 QL14" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2015 TD144" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2016 AZ8" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2017 RV1" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2017 YE5" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2018 EB" type="asteroid" moon-ref="" />
+		<object id="kalliope" name="2018 TF3" type="asteroid" moon-ref="" />
 	</celestial-bodies>
+	<references>
+		<reference id="wikpedia.liste-der-monde-von-asteroiden" title="Wikipedia: Liste der Monde von Asteroiden" language="de" authors="several" description="Dies ist eine Liste der natürlichen Satelliten von Asteroiden im soweit bekannten Sonnensystem. Die Satelliten von Zwergplaneten sind mit enthalten, da diese von der Internationalen Astronomischen Union (IAU) ebenfalls eine Kleinplaneten-Katalognummer erhalten haben und somit zusammen mit den Asteroiden geführt werden." url="https://de.wikipedia.org/wiki/Liste_der_Monde_von_Asteroiden" moon-ref="" />
+	</references
 </catalogue>
