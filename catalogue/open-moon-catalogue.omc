@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<catalogue id="root" type="attributive" language="en">
+	<celestial-bodies id="celestial-bodies">
+		<object id="earth" name="Earth" type="planet" />
+		<object id="mars" name="Mars" type="planet" />
+		<object id="jupiter" name="Jupiter" type="planet" />
+		<object id="saturn" name="Jupiter" type="planet" />
+		<object id="uranus" name="Jupiter" type="planet" />
+		<object id="neptune" name="Neptune" type="planet" />
+		<object id="pluto" name="Pluto" type="dwarfplanet" />
+		<object id="kalliope" name="Kalliope" type="asteroid" />
+	</celestial-bodies>
+</catalogue>
