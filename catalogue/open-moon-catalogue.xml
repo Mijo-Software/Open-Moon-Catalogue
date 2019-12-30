@@ -3,7 +3,7 @@
 	<systems id="systems" comment-refs="" reference-refs="wikpedia.liste-der-monde-von-asteroiden" last-modified="2019-11-17">
 		<object id="earth" name="Earth" type="planet" moon-refs="moon" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="mars" name="Mars" type="planet" moon-refs="phobos deimos" comment-refs="" reference-refs="" last-modified="2019-11-17" />
-		<object id="jupiter" name="Jupiter" type="planet" moon-refs="s1610j1 s1610j2 s1610j3 s1610j4 s1892j1 s1904j1 s1905j1 s1809j1 s1914j1 s1938j1 s1938j2 s1981j1 s1973j1 s1979j2 s1979j1 s1979j3 s1999j1 s2000j1 s2000j8 s2000j9 s2000j10 s2000j5 s2000j2 s2000j3 s2000j4 s2000j6 	s2000j7 s2001j1 s2001j2 s2001j3 s2001j11 s2001j4 s2001j7 s2001j10 s2001j9 s2001j5 	s2001j8 s2001j6 s2003j8 s2003j21 s2003j7 s2003j22 s2002j1 s2003j11 s2003j6 s2003j20 s2003j1 s2003j13 s2003j14 s2003j17 s2010j1 s2010j2 s2000j11 s2016j1 s2003j18 s2011j2 s2003j5 s2003j15 s2017j1 s2003j3 s2003j2 s2003j4 s2003j9 s2003j10 s2003j12 s2003j16 s2003j19 s2003j23 s2011j1 s2016j2 s2017j2 s2017j3 s2017j4 s2017j5 s2017j6 s2017j7 s2017j8 s2017j9 s2018j1" comment-refs="" reference-refs="" last-modified="2019-11-17" />
+		<object id="jupiter" name="Jupiter" type="planet" moon-refs="s1610j1 s1610j2 s1610j3 s1610j4 s1892j1 s1904j1 s1905j1 s1809j1 s1914j1 s1938j1 s1938j2 s1981j1 s1973j1 s1979j2 s1979j1 s1979j3 s1999j1 s2000j1 s2000j8 s2000j9 s2000j10 s2000j5 s2000j2 s2000j3 s2000j4 s2000j6 s2000j7 s2001j1 s2001j2 s2001j3 s2001j11 s2001j4 s2001j7 s2001j10 s2001j9 s2001j5 s2001j8 s2001j6 s2003j8 s2003j21 s2003j7 s2003j22 s2002j1 s2003j11 s2003j6 s2003j20 s2003j1 s2003j13 s2003j14 s2003j17 s2010j1 s2010j2 s2000j11 s2016j1 s2003j18 s2011j2 s2003j5 s2003j15 s2017j1 s2003j3 s2003j2 s2003j4 s2003j9 s2003j10 s2003j12 s2003j16 s2003j19 s2003j23 s2011j1 s2016j2 s2017j2 s2017j3 s2017j4 s2017j5 s2017j6 s2017j7 s2017j8 s2017j9 s2018j1" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="saturn" name="Saturn" type="planet" moon-refs="s1789s1 s1789s2 s1684s1 s1684s2 s1672s1 s1655s1 s1848s1 s1671s1 s1899s1 s1980s1 s1980s3 s1980s6 s1980s13 s1980s25 s1980s28 s1980s27 s1980s26 s1981s13 s2000s1 s2000s2 s2000s4 s2000s6 s2000s12	s2000s5 s2000s9 s2000s11 s2000s8 s2000s10 s2000s3 s2000s7 s2003s1 s2004s1 s2004s2 s2004s5 s2005s1 s2004s10 s2004s11 s2004s15 s2004s18 s2004s9 s2004s16 s2004s8 s2004s14 s2004s19 s2006s2 s2006s5 s2006s8 s2006s7 s2007s4 s2006s6 s2006s4 s2007s1 s2008s1 s2004s7 s2004s12 s2004s13 s2004s17 s2004s20 s2004s21 s2004s22 s2004s23 s2004s24 s2004s25 s2004s26 s2004s27 s2004s28 s2004s29 s2004s30 s2004s31 s2004s32 s2004s33 s2004s34 s2004s35 s2004s36 s2004s37 s2004s38 s2004s39 s2006s1 s2006s3 s2007s2 s2007s3 s2009s1" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="uranus" name="uranus" type="planet" moon-refs="s1851u1 s1851u2 s1787u1 s1787u2 s1948u1 s1986u7 s1986u8 s1986u9 s1986u3 s1986u6 s1986u2 s1986u1 s1986u4 s1986u5 s1985u1 s1997u1 s1997u2 s1999u3 s1999u1 s1999u2 s2001u1 s2001u3 s2003u3 s1986u10 s2003u1 s2003u2" />
 		<object id="neptune" name="Neptune" type="planet" moon-refs="s1846n1 s1949n1 s1989n6 s1989n5 s1989n3 s1989n4 s1989n2 s1989n1 s2002n1 s2003n1 s2002n2 s2002n3 s2002n4 s2004n1" comment-refs="" reference-refs="" last-modified="2019-11-17" />
@@ -358,6 +358,88 @@
 		<object id="2018tf3" name="2018 TF3" type="asteroid" moon-refs="s20182018tf31" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 	</systems>
 	<moons>
+		<moon id="moon" name="Earth moon" object-ref="earth" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="phobos" name="Phobos" object-ref="mars" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="deimos" name="Deimos" object-ref="mars" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1610j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1610j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1610j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1610j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1892j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1904j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1905j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1809j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1914j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1938j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1981j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1938j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1973j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1979j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1979j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1979j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1999j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j10" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j11" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j10" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j21" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j22" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2002j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j11" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j20" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j13" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j14" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j17" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2010j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2010j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000j11" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2016j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j18" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2011j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j15" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j10" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j12" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j16" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j19" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2003j23" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2011j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2016j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2017j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2018j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
 	</moons>
 	<comments>
 	</comments>
