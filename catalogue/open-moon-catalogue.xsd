@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!--Start with the root tag 'catalogue'-->
+	<xsd:element name="catalogue" type="catalogue" />
+	<!--Declare the 'catalogue' tag-->
+	<xsd:complexType name="catalogue">
+		<xsd:sequence>
+			<xsd:element name="systems" type="systems" />
+			<xsd:element name="moons" type="moons" />
+			<xsd:element name="comments" type="comments" />
+			<xsd:element name="references" type="references" />
+		</xsd:sequence>
+		<xsd:attribute ref="xml:id" />
+		<xsd:attribute ref="xml:lang" />
+		<xsd:attributeGroup ref="optionalAttributes" />
+	</xsd:complexType>
+	<!--Declare the 'systems' tag-->
+	<xsd:simpleType name="systems">
+		<xsd:element name="object" type="object" minOccurs="1" maxOccurs="unbound" />
+		<xsd:attribute ref="xml:id" />
+		<xsd:attributeGroup ref="optionalAttributes" />
+	</xsd:simpleType>
+	<!--Declare the 'moons' tag-->
+	<xsd:simpleType name="moons">
+		<xsd:element name="moon" type="moon" minOccurs="1" maxOccurs="unbound" />
+		<xsd:attribute ref="xml:id" />
+		<xsd:attributeGroup ref="optionalAttributes" />
+	</xsd:simpleType>
+	<!--Declare the 'comments' tag-->
+	<xsd:simpleType name="comments">
+		<xsd:element name="comment" type="comment" minOccurs="0" maxOccurs="unbound" />
+		<xsd:attribute ref="xml:id" />
+		<xsd:attributeGroup ref="optionalAttributes" />
+	</xsd:simpleType>
+	<!--Declare the 'references' tag-->
+	<xsd:simpleType name="references">
+		<xsd:element name="reference" type="reference" minOccurs="0" maxOccurs="unbound" />
+		<xsd:attribute ref="xml:id" />
+		<xsd:attributeGroup ref="optionalAttributes" />
+	</xsd:simpleType>
+	<!--Declare the 'object' tag-->
+	<!--Declare the 'moon' tag-->
+	<!--Declare the 'comment' tag-->
+	<!--Declare the 'reference' tag-->
+	<!--Declare the optional Attributes-->
+	<xsd:attributeGroup name="optionalAttributes">
+		<xsd:choice>
+			<xsd:attribute name="commentRefs" type="xsd:IDREFS" />
+			<xsd:attribute name="referenceRefs" type="xsd:IDREFS" />
+			<xsd:attribute name="lastModified" type="datetype" />
+		</xsd:choice>
+	</xsd:attributeGroup>
+</xsd:schema>
