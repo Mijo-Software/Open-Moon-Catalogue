@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UFT-8"?>
 <catalogue namespace="astro://open-moon-catalogue" id="root" language="en" last-modified="2019-11-17">
-	<systems id="systems" comment-refs="" reference-refs="wikpedia.liste-der-monde-von-asteroiden" last-modified="2019-11-17">
+	<systems id="systems" comment-refs="" reference-refs="wikipedia.liste-der-monde-von-asteroiden wikipedia.liste-der-monde-von-planeten-und-zwergplaneten wikipedia.liste-der-entdeckungen-der-planeten-und-ihrer-monde wikipedia.list-of-natural-satellites wikipedia.minor-planet-moon wikipedia.timeline-of-discovery-of-solar-system-planets-and-their-moons johnsonsarchive.asteroids-with-satellites wikipedia.liste-der-jupitermonde wikipedia.liste-der-saturnmonde wikipedia.liste-der-uranusmonde wikipedia.liste-der-Neptunmonde wikipedia.moons-of-jupiter wikipedia.moons-of-saturn wikipedia.moons-of-uranus wikipedia" last-modified="2019-11-17">
 		<object id="earth" name="Earth" type="planet" moon-refs="moon" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="mars" name="Mars" type="planet" moon-refs="phobos deimos" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="jupiter" name="Jupiter" type="planet" moon-refs="s1610j1 s1610j2 s1610j3 s1610j4 s1892j1 s1904j1 s1905j1 s1809j1 s1914j1 s1938j1 s1938j2 s1981j1 s1973j1 s1979j2 s1979j1 s1979j3 s1999j1 s2000j1 s2000j8 s2000j9 s2000j10 s2000j5 s2000j2 s2000j3 s2000j4 s2000j6 s2000j7 s2001j1 s2001j2 s2001j3 s2001j11 s2001j4 s2001j7 s2001j10 s2001j9 s2001j5 s2001j8 s2001j6 s2003j8 s2003j21 s2003j7 s2003j22 s2002j1 s2003j11 s2003j6 s2003j20 s2003j1 s2003j13 s2003j14 s2003j17 s2010j1 s2010j2 s2000j11 s2016j1 s2003j18 s2011j2 s2003j5 s2003j15 s2017j1 s2003j3 s2003j2 s2003j4 s2003j9 s2003j10 s2003j12 s2003j16 s2003j19 s2003j23 s2011j1 s2016j2 s2017j2 s2017j3 s2017j4 s2017j5 s2017j6 s2017j7 s2017j8 s2017j9 s2018j1" comment-refs="" reference-refs="" last-modified="2019-11-17" />
@@ -358,335 +358,594 @@
 		<object id="2018tf3" name="2018 TF3" type="asteroid" moon-refs="s20182018tf31" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 	</systems>
 	<moons>
-		<moon id="moon" name="Earth moon" object-ref="earth" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="phobos" name="Phobos" object-ref="mars" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="deimos" name="Deimos" object-ref="mars" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1610j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1610j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1610j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1610j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1892j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1904j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1905j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1809j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1914j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1938j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1981j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1938j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1973j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1979j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1979j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1979j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1999j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j10" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j11" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j10" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j21" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j22" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2002j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j11" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j20" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j13" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j14" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j17" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2010j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2010j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000j11" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2016j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j18" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2011j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j15" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j10" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j12" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j16" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j19" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003j23" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2011j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2016j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j2" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j3" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j4" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j5" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j6" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j7" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j8" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2017j9" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2018j1" name="" object-ref="jupiter" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1789s2" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1789s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1684s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1684s2" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1672s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1655s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1848s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1671s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1899s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s3" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s6" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s13" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s25" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s28" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s27" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1980s26" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1981s13" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s2" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s4" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s6" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s12" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s5" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s9" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s11" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s8" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s10" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s3" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000s7" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s2" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s5" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2005s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s10" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s11" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s15" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s18" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s9" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s16" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s8" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s14" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s19" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s2" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s5" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s8" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s7" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2007s4" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s6" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s4" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2007s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2008s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s7" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s12" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s13" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s17" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s20" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s21" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s22" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s23" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s24" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s25" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s26" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s27" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s28" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s29" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s30" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s31" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s32" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s33" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s34" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s35" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s36" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s37" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s38" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004s39" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2006s3" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2007s2" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2007s3" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2009s1" name="" object-ref="saturn" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1851u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1851u2" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1787u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1787u2" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1948u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u7" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u8" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u9" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u3" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u6" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u2" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u4" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u5" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1985u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1997u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1997u2" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1999u3" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1999u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1999u2" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001u3" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003u3" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1986u10" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003u1" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003u2" name="" object-ref="uranus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1846n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1949n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1989n6" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1989n5" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1989n3" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1989n4" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1989n2" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1989n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2002n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2003n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2002n2" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2002n3" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2002n4" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2001221" name="" object-ref="22kalliope" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2008411" name="" object-ref="41daphne" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004451" name="" object-ref="45eugenia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s1998451" name="" object-ref="45eugenia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004871" name="" object-ref="87sylvia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2004871" name="" object-ref="87sylvia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2000901" name="" object-ref="90antiope" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2009931" name="" object-ref="93minerva" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s2009932" name="" object-ref="93minerva" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20011071" name="" object-ref="107camilla" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20161071" name="" object-ref="107camilla" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20161131" name="" object-ref="113amalthea" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20021211" name="" object-ref="121hermione" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20031301" name="" object-ref="130elektra" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20141301" name="" object-ref="130elektra" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20082161" name="" object-ref="216kleopatra" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20082162" name="" object-ref="216kleopatra" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s19932431" name="" object-ref="243ida" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20032831" name="" object-ref="283emma" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20093171" name="" object-ref="317roxane" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20033791" name="" object-ref="379huenna" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20016171" name="" object-ref="617patroclus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20066241" name="" object-ref="624hektor" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20077021" name="" object-ref="702alauda" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20007621" name="" object-ref="762pulcova" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20058091" name="" object-ref="809lundia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20048541" name="" object-ref="854prostia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s20069391" name="" object-ref="939isberga" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201610161" name="" object-ref="1016anitra" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201210521" name="" object-ref="1052belgica" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200310891" name="" object-ref="1089tama" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200511391" name="" object-ref="1139atami" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200413131" name="" object-ref="1313berna" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200813331" name="" object-ref="1333cevenola" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200713381" name="" object-ref="1338duponta" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201213441" name="" object-ref="1344caubeta" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200714531" name="" object-ref="1453fennia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200315091" name="" object-ref="1509esclangona" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200517171" name="" object-ref="1717arlon" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201311391" name="" object-ref="1727mette" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201617701" name="" object-ref="1770schlesinger" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201717981" name="" object-ref="1798watts" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200718301" name="" object-ref="1830pogson" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200518621" name="" object-ref="1862apollo" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s198518661" name="" object-ref="1866sisyphus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200520061" name="" object-ref="2006polonskaya" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200520441" name="" object-ref="2044wirt" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201220471" name="" object-ref="2047smetana" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201820701" name="" object-ref="2070humason" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201021211" name="" object-ref="2121sevastopol" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200921311" name="" object-ref="2131mayall" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201821781" name="" object-ref="2178kazakhstania" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201522421" name="" object-ref="2242balaton" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201823371" name="" object-ref="2337boubin" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201523431" name="" object-ref="2343sidingspring" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201524491" name="" object-ref="2449kenos" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200724781" name="" object-ref="2478tokai" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200624861" name="" object-ref="2486metsahovi" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201824911" name="" object-ref="2491tvashtri" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201525351" name="" object-ref="2535hameenlinna" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200925771" name="" object-ref="2577litva" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201525771" name="" object-ref="2577litva" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201426231" name="" object-ref="2636zech" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201126911" name="" object-ref="2691sersic" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200627541" name="" object-ref="2754efimov" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201128151" name="" object-ref="2815soma" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201728251" name="" object-ref="2825crosby" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201728811" name="" object-ref="2881meiden" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200930341" name="" object-ref="3034climenhaga" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200630731" name="" object-ref="3073kursk" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201731221" name="" object-ref="3122florence" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201731222" name="" object-ref="3122florence" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200531691" name="" object-ref="3169ostro" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200533091" name="" object-ref="3309brorfelde" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201733781" name="" object-ref="3378susanvictoria" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201534331" name="" object-ref="3433fehrenbach" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200836231" name="" object-ref="3623chaplin" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s199736711" name="" object-ref="3671dionysus" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200736731" name="" object-ref="3673levy" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200337031" name="" object-ref="3703volkonskaya" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200237491" name="" object-ref="3749balam" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200737491" name="" object-ref="3749balam" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200137821" name="" object-ref="3782celle" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201637921" name="" object-ref="3792preston" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201438681" name="" object-ref="3841dicicco" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200938681" name="" object-ref="3868mendoza" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201225771" name="" object-ref="3873roddy" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201338681" name="" object-ref="3905doppler" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200639511" name="" object-ref="3951zichichi" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200539821" name="" object-ref="3982kastel" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200640291" name="" object-ref="4029bridges" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201542721" name="" object-ref="4272entsuji" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201642961" name="" object-ref="4296vanwoerkom" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201343831" name="" object-ref="4383suruga" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201744351" name="" object-ref="4435holt" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200544401" name="" object-ref="4440tchantches" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200244921" name="" object-ref="4492debussy" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201545141" name="" object-ref="4514vilen" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201545411" name="" object-ref="4541mizuno" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200946071" name="" object-ref="4607seilandfarm" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201546661" name="" object-ref="4666dietz" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200446741" name="" object-ref="4674pauling" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201347651" name="" object-ref="4765wasserburg" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200647861" name="" object-ref="4786tatianina" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201348681" name="" object-ref="4868knushevia" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200749511" name="" object-ref="4951iwamoto" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201651121" name="" object-ref="5112kusaji" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201151431" name="" object-ref="5143heracles" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201152611" name="" object-ref="5261eureka" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200353811" name="" object-ref="5381sekhmet" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201854021" name="" object-ref="5402kejosmith" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s199754071" name="" object-ref="1992ax" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201554251" name="" object-ref="5425vojtech" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201454261" name="" object-ref="5426sharp" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200854741" name="" object-ref="5474gingasen" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200554771" name="" object-ref="5477holmes" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s200854811" name="" object-ref="5481kiuchi" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201655361" name="" object-ref="5536honeycutt" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201256461" name="" object-ref="1990tr" comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201556741" name="" object-ref="5674wolff " comment-refs="" reference-refs="" last-modified="" />
-		<moon id="s201658721" name="" object-ref="5872sugano" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="moon" name="Earth moon" object-ref="earth" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="phobos" name="Phobos" object-ref="mars" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="deimos" name="Deimos" object-ref="mars" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1610j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1610j3" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1610j4" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1610j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1892j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1904j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1905j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1809j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1914j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1938j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1981j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1938j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1973j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1979j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1979j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1979j3" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1999j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j8" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j9" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j10" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j5" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j3" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j4" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j6" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j7" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j3" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j11" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j4" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j7" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j10" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j9" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j5" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j8" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001j6" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j8" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j21" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j7" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j22" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j11" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j6" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j20" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j13" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j14" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j17" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2010j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2010j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000j11" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2016j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j18" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2011j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j5" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j15" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j3" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j4" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j9" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j10" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j12" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j16" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j19" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003j23" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2011j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2016j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j2" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j3" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j4" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j5" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j6" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j7" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j8" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017j9" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2018j1" provisional-name="" name="" object-ref="jupiter" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1789s2" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1789s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1684s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1684s2" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1672s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1655s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1848s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1671s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1899s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s3" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s6" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s13" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s25" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s28" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s27" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1980s26" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1981s13" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s2" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s4" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s6" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s12" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s5" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s9" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s11" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s8" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s10" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s3" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000s7" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s2" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s5" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s10" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s11" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s15" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s18" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s9" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s16" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s8" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s14" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s19" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s2" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s5" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s8" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s7" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007s4" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s6" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s4" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2008s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s7" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s12" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s13" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s17" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s20" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s21" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s22" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s23" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s24" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s25" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s26" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s27" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s28" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s29" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s30" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s31" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s32" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s33" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s34" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s35" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s36" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s37" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s38" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004s39" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006s3" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007s2" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007s3" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2009s1" provisional-name="" name="" object-ref="saturn" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1851u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1851u2" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1787u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1787u2" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1948u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u7" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u8" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u9" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u3" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u6" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u2" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u4" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u5" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1985u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1997u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1997u2" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1999u3" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1999u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1999u2" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001u3" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003u3" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1986u10" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003u1" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003u2" provisional-name="" name="" object-ref="uranus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1846n1" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1949n1" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1989n6" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1989n5" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1989n3" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1989n4" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1989n2" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1989n1" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002n1" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003n1" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002n2" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002n3" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002n4" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004n1" provisional-name="" name="" object-ref="neptune" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001221" provisional-name="" name="" object-ref="22kalliope" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2008411" provisional-name="" name="" object-ref="41daphne" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004451" provisional-name="" name="" object-ref="45eugenia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1998451" provisional-name="" name="" object-ref="45eugenia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004871" provisional-name="" name="" object-ref="87sylvia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004871" provisional-name="" name="" object-ref="87sylvia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2000901" provisional-name="" name="" object-ref="90antiope" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2009931" provisional-name="" name="" object-ref="93minerva" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2009932" provisional-name="" name="" object-ref="93minerva" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20011071" provisional-name="" name="" object-ref="107camilla" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20161071" provisional-name="" name="" object-ref="107camilla" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20161131" provisional-name="" name="" object-ref="113amalthea" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20021211" provisional-name="" name="" object-ref="121hermione" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20031301" provisional-name="" name="" object-ref="130elektra" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20141301" provisional-name="" name="" object-ref="130elektra" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20082161" provisional-name="" name="" object-ref="216kleopatra" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20082162" provisional-name="" name="" object-ref="216kleopatra" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s19932431" provisional-name="" name="" object-ref="243ida" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20032831" provisional-name="" name="" object-ref="283emma" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20093171" provisional-name="" name="" object-ref="317roxane" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20033791" provisional-name="" name="" object-ref="379huenna" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20016171" provisional-name="" name="" object-ref="617patroclus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20066241" provisional-name="" name="" object-ref="624hektor" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20077021" provisional-name="" name="" object-ref="702alauda" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20007621" provisional-name="" name="" object-ref="762pulcova" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20058091" provisional-name="" name="" object-ref="809lundia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20048541" provisional-name="" name="" object-ref="854prostia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20069391" provisional-name="" name="" object-ref="939isberga" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201610161" provisional-name="" name="" object-ref="1016anitra" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201210521" provisional-name="" name="" object-ref="1052belgica" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200310891" provisional-name="" name="" object-ref="1089tama" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200511391" provisional-name="" name="" object-ref="1139atami" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200413131" provisional-name="" name="" object-ref="1313berna" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200813331" provisional-name="" name="" object-ref="1333cevenola" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200713381" provisional-name="" name="" object-ref="1338duponta" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201213441" provisional-name="" name="" object-ref="1344caubeta" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200714531" provisional-name="" name="" object-ref="1453fennia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200315091" provisional-name="" name="" object-ref="1509esclangona" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200517171" provisional-name="" name="" object-ref="1717arlon" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201311391" provisional-name="" name="" object-ref="1727mette" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201617701" provisional-name="" name="" object-ref="1770schlesinger" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201717981" provisional-name="" name="" object-ref="1798watts" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200718301" provisional-name="" name="" object-ref="1830pogson" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200518621" provisional-name="" name="" object-ref="1862apollo" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s198518661" provisional-name="" name="" object-ref="1866sisyphus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200520061" provisional-name="" name="" object-ref="2006polonskaya" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200520441" provisional-name="" name="" object-ref="2044wirt" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201220471" provisional-name="" name="" object-ref="2047smetana" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201820701" provisional-name="" name="" object-ref="2070humason" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201021211" provisional-name="" name="" object-ref="2121sevastopol" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200921311" provisional-name="" name="" object-ref="2131mayall" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201821781" provisional-name="" name="" object-ref="2178kazakhstania" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201522421" provisional-name="" name="" object-ref="2242balaton" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201823371" provisional-name="" name="" object-ref="2337boubin" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201523431" provisional-name="" name="" object-ref="2343sidingspring" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201524491" provisional-name="" name="" object-ref="2449kenos" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200724781" provisional-name="" name="" object-ref="2478tokai" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200624861" provisional-name="" name="" object-ref="2486metsahovi" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201824911" provisional-name="" name="" object-ref="2491tvashtri" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201525351" provisional-name="" name="" object-ref="2535hameenlinna" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200925771" provisional-name="" name="" object-ref="2577litva" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201525771" provisional-name="" name="" object-ref="2577litva" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201426231" provisional-name="" name="" object-ref="2636zech" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201126911" provisional-name="" name="" object-ref="2691sersic" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200627541" provisional-name="" name="" object-ref="2754efimov" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201128151" provisional-name="" name="" object-ref="2815soma" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201728251" provisional-name="" name="" object-ref="2825crosby" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201728811" provisional-name="" name="" object-ref="2881meiden" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200930341" provisional-name="" name="" object-ref="3034climenhaga" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200630731" provisional-name="" name="" object-ref="3073kursk" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201731221" provisional-name="" name="" object-ref="3122florence" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201731222" provisional-name="" name="" object-ref="3122florence" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200531691" provisional-name="" name="" object-ref="3169ostro" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200533091" provisional-name="" name="" object-ref="3309brorfelde" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201733781" provisional-name="" name="" object-ref="3378susanvictoria" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201534331" provisional-name="" name="" object-ref="3433fehrenbach" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200836231" provisional-name="" name="" object-ref="3623chaplin" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s199736711" provisional-name="" name="" object-ref="3671dionysus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200736731" provisional-name="" name="" object-ref="3673levy" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200337031" provisional-name="" name="" object-ref="3703volkonskaya" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200237491" provisional-name="" name="" object-ref="3749balam" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200737491" provisional-name="" name="" object-ref="3749balam" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200137821" provisional-name="" name="" object-ref="3782celle" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201637921" provisional-name="" name="" object-ref="3792preston" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201438681" provisional-name="" name="" object-ref="3841dicicco" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200938681" provisional-name="" name="" object-ref="3868mendoza" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201225771" provisional-name="" name="" object-ref="3873roddy" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201338681" provisional-name="" name="" object-ref="3905doppler" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200639511" provisional-name="" name="" object-ref="3951zichichi" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200539821" provisional-name="" name="" object-ref="3982kastel" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200640291" provisional-name="" name="" object-ref="4029bridges" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201542721" provisional-name="" name="" object-ref="4272entsuji" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201642961" provisional-name="" name="" object-ref="4296vanwoerkom" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201343831" provisional-name="" name="" object-ref="4383suruga" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201744351" provisional-name="" name="" object-ref="4435holt" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200544401" provisional-name="" name="" object-ref="4440tchantches" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200244921" provisional-name="" name="" object-ref="4492debussy" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201545141" provisional-name="" name="" object-ref="4514vilen" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201545411" provisional-name="" name="" object-ref="4541mizuno" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200946071" provisional-name="" name="" object-ref="4607seilandfarm" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201546661" provisional-name="" name="" object-ref="4666dietz" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200446741" provisional-name="" name="" object-ref="4674pauling" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201347651" provisional-name="" name="" object-ref="4765wasserburg" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200647861" provisional-name="" name="" object-ref="4786tatianina" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201348681" provisional-name="" name="" object-ref="4868knushevia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200749511" provisional-name="" name="" object-ref="4951iwamoto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201651121" provisional-name="" name="" object-ref="5112kusaji" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201151431" provisional-name="" name="" object-ref="5143heracles" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201152611" provisional-name="" name="" object-ref="5261eureka" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200353811" provisional-name="" name="" object-ref="5381sekhmet" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201854021" provisional-name="" name="" object-ref="5402kejosmith" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s199754071" provisional-name="" name="" object-ref="1992ax" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201554251" provisional-name="" name="" object-ref="5425vojtech" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201454261" provisional-name="" name="" object-ref="5426sharp" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200854741" provisional-name="" name="" object-ref="5474gingasen" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200554771" provisional-name="" name="" object-ref="5477holmes" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200854811" provisional-name="" name="" object-ref="5481kiuchi" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201655361" provisional-name="" name="" object-ref="5536honeycutt" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201256461" provisional-name="" name="" object-ref="1990tr" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201556741" provisional-name="" name="" object-ref="5674wolff " semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201658721" provisional-name="" name="" object-ref="5872sugano" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201058991" provisional-name="" name="" object-ref="5899jedicke" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200559051" provisional-name="" name="" object-ref="5905johnson" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201660161" provisional-name="" name="" object-ref="6016carnelli" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200560841" provisional-name="" name="" object-ref="6084bascom" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201661001" provisional-name="" name="" object-ref="6100kunitomoikkansai" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201561811" provisional-name="" name="" object-ref="6181bobweber" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201761861" provisional-name="" name="" object-ref="6186zenon" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200662441" provisional-name="" name="" object-ref="6244okamoto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201862451" provisional-name="" name="" object-ref="6245ikufumi" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200762651" provisional-name="" name="" object-ref="1985tw3" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201362651" provisional-name="" name="" object-ref="1983uc" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201563841" provisional-name="" name="" object-ref="6384kervin" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200766151" provisional-name="" name="" object-ref="6615plutarchos" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200967081" provisional-name="" name="" object-ref="6708bobbievaile" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200570881" provisional-name="" name="" object-ref="7088ishtar" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201271871" provisional-name="" name="" object-ref="7187isobe" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200772251" provisional-name="" name="" object-ref="7225huntress" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201773441" provisional-name="" name="" object-ref="7344summerfield" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200773691" provisional-name="" name="" object-ref="7369gavrilin" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201873931" provisional-name="" name="" object-ref="7393luginbuhl" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201378881" provisional-name="" name="" object-ref="1993uc" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201279581" provisional-name="" name="" object-ref="7958leakey" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201080261" provisional-name="" name="" object-ref="8026johnmckay" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201680771" provisional-name="" name="" object-ref="8077hoyle" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200781161" provisional-name="" name="" object-ref="8116jeanperrin" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201381161" provisional-name="" name="" object-ref="8306shoko" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201083731" provisional-name="" name="" object-ref="8373stephengould" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201584741" provisional-name="" name="" object-ref="8474rettig" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200490691" provisional-name="" name="" object-ref="9069hovland" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200592601" provisional-name="" name="" object-ref="9260edwardolson" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s200696171" provisional-name="" name="" object-ref="9617grahamchapman" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201397831" provisional-name="" name="" object-ref="9783tenshokan" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s201799721" provisional-name="" name="" object-ref="9972minoruoda" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013101231" provisional-name="" name="" object-ref="10123fideoja" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017101321" provisional-name="" name="" object-ref="10132lummelunda" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007102081" provisional-name="" name="" object-ref="10208germanicus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013112171" provisional-name="" name="" object-ref="1999jc4" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017112271" provisional-name="" name="" object-ref="11227ksenborisova" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005112641" provisional-name="" name="" object-ref="11264claudiomaccone" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2016120081" provisional-name="" name="" object-ref="12008kandrup" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2016123261" provisional-name="" name="" object-ref="12326shirasaki" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2015131231" provisional-name="" name="" object-ref="13123tyson" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2008152681" provisional-name="" name="" object-ref="15268wendelinefroger" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013154301" provisional-name="" name="" object-ref="1998ur31" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2010157001" provisional-name="" name="" object-ref="1987qr" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2018157451" provisional-name="" name="" object-ref="15745yuliya" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2010158221" provisional-name="" name="" object-ref="1994tv15" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013165251" provisional-name="" name="" object-ref="16525shumarinaiko" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007166351" provisional-name="" name="" object-ref="1993qo" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013169741" provisional-name="" name="" object-ref="16974iphthime" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004172461" provisional-name="" name="" object-ref="17246christophedumas" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006172601" provisional-name="" name="" object-ref="17260kusnirak" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005173651" provisional-name="" name="" object-ref="1978vf11" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2018177001" provisional-name="" name="" object-ref="1997gm40" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2018185271" provisional-name="" name="" object-ref="1996v30" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2014188901" provisional-name="" name="" object-ref="2000ev26" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2014203251" provisional-name="" name="" object-ref="20325julianoey" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2018208821" provisional-name="" name="" object-ref="2000vh57" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2014214361" provisional-name="" name="" object-ref="21436chaoyichi" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003228991" provisional-name="" name="" object-ref="22899alconrad" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017236211" provisional-name="" name="" object-ref="1996pa" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2016244651" provisional-name="" name="" object-ref="2000sx155" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017244951" provisional-name="" name="" object-ref="24495degroff" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2018250151" provisional-name="" name="" object-ref="1998qn2" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013260741" provisional-name="" name="" object-ref="26074carlwirtz" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001263081" provisional-name="" name="" object-ref="1998sm165" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2015264161" provisional-name="" name="" object-ref="s2001263081" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2009264711" provisional-name="" name="" object-ref="26471tracybecker" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013275681" provisional-name="" name="" object-ref="2000pt6" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2017276751" provisional-name="" name="" object-ref="1981ch" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005293141" provisional-name="" name="" object-ref="29314eurydamas" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1998313451" provisional-name="" name="" object-ref="1998pg" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2015314501" provisional-name="" name="" object-ref="31450stevepreston" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007320081" provisional-name="" name="" object-ref="32008adriangalad" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007320391" provisional-name="" name="" object-ref="2000jo23" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005347061" provisional-name="" name="" object-ref="2001op83" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1997351071" provisional-name="" name="" object-ref="1991vh" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2012386281" provisional-name="" name="" object-ref="38628huya" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006423551" provisional-name="" name="" object-ref="42355typhon" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2014430081" provisional-name="" name="" object-ref="1999ud31" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2014436201" provisional-name="" name="" object-ref="1999rs43" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2015468291" provisional-name="" name="" object-ref="46829mcmahon" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001471711" provisional-name="" name="" object-ref="47171lempo" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007471712" provisional-name="" name="" object-ref="47171lempo" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002486391" provisional-name="" name="" object-ref="1995tl8" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007500001" provisional-name="" name="" object-ref="50000quaoar" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2012513561" provisional-name="" name="" object-ref="2000ry76" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2012523161" provisional-name="" name="" object-ref="52316daveslater" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2015531101" provisional-name="" name="" object-ref="1999ar7" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013523161" provisional-name="" name="" object-ref="1999ut55" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2016546971" provisional-name="" name="" object-ref="2001fa70" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007556371" provisional-name="" name="" object-ref="2002ux25" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001585341" provisional-name="" name="" object-ref="58534logos" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006604581" provisional-name="" name="" object-ref="2000cm114" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2007606211" provisional-name="" name="" object-ref="2000fe8" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2006654891" provisional-name="" name="" object-ref="65489ceto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003658031" provisional-name="" name="" object-ref="65803didymos" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002660631" provisional-name="" name="" object-ref="660631998ro1" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001663911" provisional-name="" name="" object-ref="66391moshup" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003666521" provisional-name="" name="" object-ref="66652borasisi" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2014680631" provisional-name="" name="" object-ref="2000yj66" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2003692301" provisional-name="" name="" object-ref="69230hermes" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2013694061" provisional-name="" name="" object-ref="1995sx48" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005768181" provisional-name="" name="" object-ref="2000rg79" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005793601" provisional-name="" name="" object-ref="79360sila" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2012794721" provisional-name="" name="" object-ref="79472chiorny" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2012802181" provisional-name="" name="" object-ref="1999vo123" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002808061" provisional-name="" name="" object-ref="2000cm105" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2002820751" provisional-name="" name="" object-ref="2000yw134" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2008821571" provisional-name="" name="" object-ref="2001fm185" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2004859381" provisional-name="" name="" object-ref="1999dj4" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001886111" provisional-name="" name="" object-ref="88611teharonhiawako" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2001887101" provisional-name="" name="" object-ref="2001sl9" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005904821" provisional-name="" name="" object-ref="90482orcus" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2010999131" provisional-name="" name="" object-ref="1997cz5" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20181000151" provisional-name="" name="" object-ref="1989sr7" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20051143191" provisional-name="" name="" object-ref="2002xd58" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20071190671" provisional-name="" name="" object-ref="2001kp76" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20071199791" provisional-name="" name="" object-ref="2002wc19" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20061203471" provisional-name="" name="" object-ref="120347salacia" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20051235091" provisional-name="" name="" object-ref="2000wk183" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s1978p1" provisional-name="" name="" object-ref="134340pluto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005p1" provisional-name="" name="" object-ref="134340pluto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005p2" provisional-name="" name="" object-ref="134340pluto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20111343401" provisional-name="" name="" object-ref="134340pluto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20121343402" provisional-name="" name="" object-ref="134340pluto" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20031348601" provisional-name="" name="" object-ref="2000oj67" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20052003el611" provisional-name="" name="" object-ref="136108haumea" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20052003el612" provisional-name="" name="" object-ref="136108haumea" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20052003ub3131" provisional-name="" name="" object-ref="136199eris" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20151364721" provisional-name="" name="" object-ref="136472makemake" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20091366171" provisional-name="" name="" object-ref="1994cc" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20091366172" provisional-name="" name="" object-ref="1994cc" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20121369931" provisional-name="" name="" object-ref="1998st49" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s19991371701" provisional-name="" name="" object-ref="1999hf1" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20131380951" provisional-name="" name="" object-ref="2000dk79" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20031397751" provisional-name="" name="" object-ref="2001qg298" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20071487801" provisional-name="" name="" object-ref="148780altjira" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20081535911" provisional-name="" name="" object-ref="2001sh263" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20081535912" provisional-name="" name="" object-ref="2001sh263" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20121539581" provisional-name="" name="" object-ref="2002am31" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20071600911" provisional-name="" name="" object-ref="2000ol67" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20071602561" provisional-name="" name="" object-ref="2002pd149" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20031620001" provisional-name="" name="" object-ref="1990os" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20051624831" provisional-name="" name="" object-ref="2000pj5" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20171636931" provisional-name="" name="" object-ref="163693atira" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20041641211" provisional-name="" name="" object-ref="2003yt1" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20091745671" provisional-name="" name="" object-ref="174567varda" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s19981757061" provisional-name="" name="" object-ref="1996fg3" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20061829331" provisional-name="" name="" object-ref="2002gz31" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20001858511" provisional-name="" name="" object-ref="2000dp107" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20171901661" provisional-name="" name="" object-ref="2005up156" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20141858511" provisional-name="" name="" object-ref="2006aq" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20052089961" provisional-name="" name="" object-ref="2003az84" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20102181441" provisional-name="" name="" object-ref="2002rl66" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20162250881" provisional-name="" name="" object-ref="2007or10" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20172265141" provisional-name="" name="" object-ref="2003ux34" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20082297621" provisional-name="" name="" object-ref="2007uk126" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20062758091" provisional-name="" name="" object-ref="2001qy297" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20042760491" provisional-name="" name="" object-ref="2002ce26" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20132852631" provisional-name="" name="" object-ref="1998qe2" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20113001631" provisional-name="" name="" object-ref="2006vw139" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20073037121" provisional-name="" name="" object-ref="2005pr21" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20173105601" provisional-name="" name="" object-ref="2001ql142" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20063110661" provisional-name="" name="" object-ref="2004dc" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s2005793601" provisional-name="" name="" object-ref="341520mors" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20153484001" provisional-name="" name="" object-ref="2005jf21" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20153574391" provisional-name="" name="" object-ref="2004bl86" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20013630271" provisional-name="" name="" object-ref="1998st27" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20093630671" provisional-name="" name="" object-ref="2000co101" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20123635991" provisional-name="" name="" object-ref="2004fg11" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20063641711" provisional-name="" name="" object-ref="2006jz81" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20073748511" provisional-name="" name="" object-ref="2006vv2" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s19943851861" provisional-name="" name="" object-ref="1994aw1" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20063854461" provisional-name="" name="" object-ref="385446manwe" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20143993071" provisional-name="" name="" object-ref="1991rj2" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20083997741" provisional-name="" name="" object-ref="2005nb7" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20154107771" provisional-name="" name="" object-ref="2009fd" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20084508941" provisional-name="" name="" object-ref="2008bt18" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20054525611" provisional-name="" name="" object-ref="2005ab" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20064618521" provisional-name="" name="" object-ref="2006gy2" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20084694201" provisional-name="" name="" object-ref="2001xp254" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20104695051" provisional-name="" name="" object-ref="2003fe128" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20064695141" provisional-name="" name="" object-ref="2003qa91" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20094697051" provisional-name="" name="" object-ref="2005ef298" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20124815321" provisional-name="" name="" object-ref="2007le" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20054884531" provisional-name="" name="" object-ref="1994xd" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20004946581" provisional-name="" name="" object-ref="2000ug11" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20035087881" provisional-name="" name="" object-ref="2000cq114" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20085088691" provisional-name="" name="" object-ref="2000vt130" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20125236241" provisional-name="" name="" object-ref="2008ct190" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20135236251" provisional-name="" name="" object-ref="2008dg17" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20155237751" provisional-name="" name="" object-ref="2014yb35" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20085239831" provisional-name="" name="" object-ref="1999ry214" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20075242171" provisional-name="" name="" object-ref="2001rz143" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20075243661" provisional-name="" name="" object-ref="2001xr254" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20085245311" provisional-name="" name="" object-ref="2002xh91" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20055254621" provisional-name="" name="" object-ref="2005eo304" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20145258161" provisional-name="" name="" object-ref="2005sf278" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20185320371" provisional-name="" name="" object-ref="2013fy27" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20141994cj11" provisional-name="" name="" object-ref="1994cj1" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20081998wv241" provisional-name="" name="" object-ref="1998wv24" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20001998ww311" provisional-name="" name="" object-ref="1998ww31" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20051999oj41" provisional-name="" name="" object-ref="1999oj4" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20061999rt2141" provisional-name="" name="" object-ref="1999rt214" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20091999xy1431" provisional-name="" name="" object-ref="1999xy143" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20022000cf1051" provisional-name="" name="" object-ref="2000cf105" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20062000ql2511" provisional-name="" name="" object-ref="2000ql251" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20092000wt1691" provisional-name="" name="" object-ref="2000wt169" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20072001fl1851" provisional-name="" name="" object-ref="2001fl185" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20022001qc2981" provisional-name="" name="" object-ref="2001qc298" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20082001qq3221" provisional-name="" name="" object-ref="2001qq322" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20012001qw3221" provisional-name="" name="" object-ref="2001qw322" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20022002bm261" provisional-name="" name="" object-ref="2002bm26" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20022002kk81" provisional-name="" name="" object-ref="2002kk8" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20092002vf1301" provisional-name="" name="" object-ref="2002vf130" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20122003hg571" provisional-name="" name="" object-ref="2003hg57" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20072003qr911" provisional-name="" name="" object-ref="2003qr91" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20032003qy901" provisional-name="" name="" object-ref="2003qy90" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20032003ss841" provisional-name="" name="" object-ref="2003ss84" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20072003tj581" provisional-name="" name="" object-ref="2003tj58" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20032003un2841" provisional-name="" name="" object-ref="2003un284" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20072003wu1881" provisional-name="" name="" object-ref="2003wu188" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20112003ys1791" provisional-name="" name="" object-ref="2003ys179" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20092003yu1791" provisional-name="" name="" object-ref="2003yu179" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20152004kb191" provisional-name="" name="" object-ref="2004kb19" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20112004kh191" provisional-name="" name="" object-ref="2004kh19" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20072004pb1081" provisional-name="" name="" object-ref="2004pb108" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20112005gd1871" provisional-name="" name="" object-ref="2005gd187" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20112005vz1221" provisional-name="" name="" object-ref="2005vz122" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20142005yq961" provisional-name="" name="" object-ref="2005yq96" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20112006br2841" provisional-name="" name="" object-ref="2006br284" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20102006ch691" provisional-name="" name="" object-ref="2006ch69" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20082006sf3691" provisional-name="" name="" object-ref="2006sf369" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20072007dt1031" provisional-name="" name="" object-ref="2007dt103" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20142013wt441" provisional-name="" name="" object-ref="2013wt44" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20182014lq281" provisional-name="" name="" object-ref="2014lq28" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20142014wz1201" provisional-name="" name="" object-ref="2014wz120" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20182015ql141" provisional-name="" name="" object-ref="2015ql14" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20152015td1441" provisional-name="" name="" object-ref="2015td144" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20192016az81" provisional-name="" name="" object-ref="2016az8" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20172017rv11" provisional-name="" name="" object-ref="2017rv1" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20182017ye51" provisional-name="" name="" object-ref="2017ye5" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20182018eb1" provisional-name="" name="" object-ref="2018eb" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
+		<moon id="s20182018tf31" provisional-name="" name="" object-ref="2018tf3" semimajor-axis="" eccentricity="" inclination="" period="" mean-diameter="" mass="" comment-refs="" reference-refs="" last-modified="2019-12-31" />
 	</moons>
 	<comments>
 	</comments>
 	<references>
-		<reference id="wikpedia.liste-der-monde-von-asteroiden" title="Wikipedia: Liste der Monde von Asteroiden" language="de" authors="several" description="Dies ist eine Liste der natürlichen Satelliten von Asteroiden im soweit bekannten Sonnensystem. Die Satelliten von Zwergplaneten sind mit enthalten, da diese von der Internationalen Astronomischen Union (IAU) ebenfalls eine Kleinplaneten-Katalognummer erhalten haben und somit zusammen mit den Asteroiden geführt werden." url="https://de.wikipedia.org/wiki/Liste_der_Monde_von_Asteroiden" moon-refs="" comment-refs="" reference-refs="" last-modified="2019-11-17" />
+		<reference id="johnsonsarchive.asteroids-with-satellites" title="Johnston's Archive: Asteroids with Satellites" language="en" authors="Wm. Robert Johnston" description="" url="http://johnstonsarchive.net/astro/asteroidmoons.html" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.liste-der-monde-von-asteroiden" title="Wikipedia: Liste der Monde von Asteroiden" language="de" authors="several" description="Dies ist eine Liste der natürlichen Satelliten von Asteroiden im soweit bekannten Sonnensystem. Die Satelliten von Zwergplaneten sind mit enthalten, da diese von der Internationalen Astronomischen Union (IAU) ebenfalls eine Kleinplaneten-Katalognummer erhalten haben und somit zusammen mit den Asteroiden geführt werden." url="https://de.wikipedia.org/wiki/Liste_der_Monde_von_Asteroiden" comment-refs="" last-modified="2019-11-17" />
+		<reference id="wikipedia.liste-der-monde-von-planeten-und-zwergplaneten" title="Wikipedia: Liste der Monde von Planeten und Zwergplaneten" language="de" authors="several" description="Dies ist eine Liste der Monde von Planeten und Zwergplaneten im Sonnensystem, die der Asteroiden findet sich in der Liste der Monde von Asteroiden." url="https://de.wikipedia.org/wiki/Liste_der_Monde_von_Planeten_und_Zwergplaneten" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.liste-der-entdeckungen-der-planeten-und-ihrer-monde" title="Wikipedia: Liste der Entdeckungen der Planeten und ihrer Monde" language="de" authors="several" description="Diese Liste zeigt die Abfolge der Erstbeobachtungen von bis dahin unbekannten Planeten und Monden im Sonnensystem." url="https://de.wikipedia.org/wiki/Liste_der_Entdeckungen_der_Planeten_und_ihrer_Monde" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.list-of-natural-satellites" title="Wikipedia: List of natural satellites" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/List_of_natural_satellites" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.minor-planet-moon" title="Wikipedia: Minor-planet moon" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/Minor-planet_moons" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.timeline-of-discovery-of-solar-system-planets-and-their-moons" title="Wikipedia: Timeline of discovery of Solar System planets and their moons" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/Timeline_of_discovery_of_Solar_System_planets_and_their_moons" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.liste-der-jupitermonde" title="Wikipedia: Liste der Jupitermonde" language="de" authors="several" description="Diese Referenz enthält die wichtigsten Daten der 69 erstentdeckten von allen 79 bisher bekannten natürlichen Satelliten des Jupiters." url="https://de.wikipedia.org/wiki/Liste_der_Jupitermonde" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.liste-der-saturnmonde" title="Wikipedia: Liste der Saturnmonde" language="de" authors="several" description="Diese Referenz enthält die wichtigsten Daten der 82 bisher bekannten natürlichen Satelliten des Saturns." url="https://de.wikipedia.org/wiki/Liste_der_Saturnmonde" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.liste-der-uranusmonde" title="Wikipedia: Liste der Uranusmonde" language="de" authors="several" description="Diese Referenz enthält die wichtigsten Daten aller 27 bisher bekannten natürlichen Satelliten des Uranus." url="https://de.wikipedia.org/wiki/Liste_der_Uranusmonde" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.liste-der-Neptunmonde" title="Wikipedia: Liste der Neptunmonde" language="de" authors="several" description="Diese Referenz enthält die wichtigsten Daten aller 14 bisher bekannten natürlichen Satelliten des Neptuns." url="https://de.wikipedia.org/wiki/Liste_der_Neptunmonde" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.moons-of-jupiter" title="Wikipedia: Moons of Jupiter" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/Moons_of_Jupiter" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.moons-of-saturn" title="Wikipedia: Moons of Saturn" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/Moons_of_Saturn" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.moons-of-uranus" title="Wikipedia: Moons of Uranus" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/Moons_of_Uranus" comment-refs="" last-modified="2019-12-31" />
+		<reference id="wikipedia.moons-of-neptune" title="Wikipedia: Moons of Neptune" language="en" authors="several" description="" url="https://en.wikipedia.org/wiki/Moons_of_Neptune" comment-refs="" last-modified="2019-12-31" />
 	</references>
 </catalogue>
