@@ -14,7 +14,7 @@
 		<object id="90antiope" name="(90) Antiope" type="asteroid" moon-refs="s2000901" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="93minerva" name="(93) Minerva" type="asteroid" moon-refs="s2009931 s2009932" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="107camilla" name="(107) Camilla" type="asteroid" moon-refs="s20011071 s20161071" comment-refs="" reference-refs="" last-modified="2019-11-17" />
-		<object id="113amalthea" name="(113) Amalthea" type="asteroid" moon-refs="s20161071" comment-refs="" reference-refs="" last-modified="2019-11-17" />
+		<object id="113amalthea" name="(113) Amalthea" type="asteroid" moon-refs="s20161131" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="121hermione" name="(121) Hermione" type="asteroid" moon-refs="s20021211" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="130elektra" name="(130) Elektra" type="asteroid" moon-refs="s20031301 s20141301" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="216kleopatra" name="(216) Kleopatra" type="asteroid" moon-refs="s20082161 s20082162" comment-refs="" reference-refs="" last-modified="2019-11-17" />
@@ -39,8 +39,8 @@
 		<object id="1344caubeta" name="(1344) Caubeta" type="asteroid" moon-refs="s201213441" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="1453fennia" name="(1453) Fennia" type="asteroid" moon-refs="s200714531" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="1509esclangona" name="(1509) Esclangona" type="asteroid" moon-refs="s200315091" comment-refs="" reference-refs="" last-modified="2019-11-17" />
-		<object id="1717arlon" name="(1717) Arlon" type="asteroid" moon-refs="" comment-refs="s200517171" reference-refs="" last-modified="2019-11-17" />
-		<object id="1727mette" name="(1727) Mette" type="asteroid" moon-refs="" comment-refs="s201311391" reference-refs="" last-modified="2019-11-17" />
+		<object id="1717arlon" name="(1717) Arlon" type="asteroid" moon-refs="s200517171" comment-refs="" reference-refs="" last-modified="2019-11-17" />
+		<object id="1727mette" name="(1727) Mette" type="asteroid" moon-refs="s201311391" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="1770schlesinger" name="(1770) Schlesinger" type="asteroid" moon-refs="s201617701" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="1798watts" name="(1798) Watts" type="asteroid" moon-refs="s201717981" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="1830pogson" name="(1830) Pogson" type="asteroid" moon-refs="s200718301" comment-refs="" reference-refs="" last-modified="2019-11-17" />
@@ -70,7 +70,7 @@
 		<object id="2881meiden" name="(2881) Meiden" type="asteroid" moon-refs="s201728811" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="3034climenhaga" name="(3034) Climenhaga" type="asteroid" moon-refs="s200930341" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="3073kursk" name="(3073) Kursk" type="asteroid" moon-refs="s200630731" comment-refs="" reference-refs="" last-modified="2019-11-17" />
-		<object id="3122florence" name="(3122) Florence" type="asteroid" moon-refs="s201731221 s201731221" comment-refs="" reference-refs="" last-modified="2019-11-17" />
+		<object id="3122florence" name="(3122) Florence" type="asteroid" moon-refs="s201731221 s201731222" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="3169ostro" name="(3169) Ostro" type="asteroid" moon-refs="s200531691" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="3309brorfelde" name="(3309) Brorfelde" type="asteroid" moon-refs="s200533091" comment-refs="" reference-refs="" last-modified="2019-11-17" />
 		<object id="3378susanvictoria" name="(3378) Susanvictoria" type="asteroid" moon-refs="s201733781" comment-refs="" reference-refs="" last-modified="2019-11-17" />
@@ -562,6 +562,127 @@
 		<moon id="s2002n3" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
 		<moon id="s2002n4" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
 		<moon id="s2004n1" name="" object-ref="neptune" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2001221" name="" object-ref="22kalliope" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2008411" name="" object-ref="41daphne" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2004451" name="" object-ref="45eugenia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s1998451" name="" object-ref="45eugenia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2004871" name="" object-ref="87sylvia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2004871" name="" object-ref="87sylvia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2000901" name="" object-ref="90antiope" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2009931" name="" object-ref="93minerva" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s2009932" name="" object-ref="93minerva" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20011071" name="" object-ref="107camilla" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20161071" name="" object-ref="107camilla" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20161131" name="" object-ref="113amalthea" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20021211" name="" object-ref="121hermione" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20031301" name="" object-ref="130elektra" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20141301" name="" object-ref="130elektra" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20082161" name="" object-ref="216kleopatra" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20082162" name="" object-ref="216kleopatra" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s19932431" name="" object-ref="243ida" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20032831" name="" object-ref="283emma" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20093171" name="" object-ref="317roxane" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20033791" name="" object-ref="379huenna" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20016171" name="" object-ref="617patroclus" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20066241" name="" object-ref="624hektor" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20077021" name="" object-ref="702alauda" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20007621" name="" object-ref="762pulcova" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20058091" name="" object-ref="809lundia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20048541" name="" object-ref="854prostia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s20069391" name="" object-ref="939isberga" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201610161" name="" object-ref="1016anitra" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201210521" name="" object-ref="1052belgica" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200310891" name="" object-ref="1089tama" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200511391" name="" object-ref="1139atami" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200413131" name="" object-ref="1313berna" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200813331" name="" object-ref="1333cevenola" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200713381" name="" object-ref="1338duponta" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201213441" name="" object-ref="1344caubeta" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200714531" name="" object-ref="1453fennia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200315091" name="" object-ref="1509esclangona" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200517171" name="" object-ref="1717arlon" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201311391" name="" object-ref="1727mette" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201617701" name="" object-ref="1770schlesinger" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201717981" name="" object-ref="1798watts" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200718301" name="" object-ref="1830pogson" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200518621" name="" object-ref="1862apollo" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s198518661" name="" object-ref="1866sisyphus" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200520061" name="" object-ref="2006polonskaya" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200520441" name="" object-ref="2044wirt" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201220471" name="" object-ref="2047smetana" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201820701" name="" object-ref="2070humason" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201021211" name="" object-ref="2121sevastopol" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200921311" name="" object-ref="2131mayall" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201821781" name="" object-ref="2178kazakhstania" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201522421" name="" object-ref="2242balaton" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201823371" name="" object-ref="2337boubin" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201523431" name="" object-ref="2343sidingspring" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201524491" name="" object-ref="2449kenos" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200724781" name="" object-ref="2478tokai" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200624861" name="" object-ref="2486metsahovi" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201824911" name="" object-ref="2491tvashtri" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201525351" name="" object-ref="2535hameenlinna" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200925771" name="" object-ref="2577litva" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201525771" name="" object-ref="2577litva" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201426231" name="" object-ref="2636zech" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201126911" name="" object-ref="2691sersic" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200627541" name="" object-ref="2754efimov" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201128151" name="" object-ref="2815soma" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201728251" name="" object-ref="2825crosby" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201728811" name="" object-ref="2881meiden" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200930341" name="" object-ref="3034climenhaga" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200630731" name="" object-ref="3073kursk" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201731221" name="" object-ref="3122florence" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201731222" name="" object-ref="3122florence" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200531691" name="" object-ref="3169ostro" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200533091" name="" object-ref="3309brorfelde" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201733781" name="" object-ref="3378susanvictoria" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201534331" name="" object-ref="3433fehrenbach" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200836231" name="" object-ref="3623chaplin" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s199736711" name="" object-ref="3671dionysus" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200736731" name="" object-ref="3673levy" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200337031" name="" object-ref="3703volkonskaya" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200237491" name="" object-ref="3749balam" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200737491" name="" object-ref="3749balam" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200137821" name="" object-ref="3782celle" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201637921" name="" object-ref="3792preston" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201438681" name="" object-ref="3841dicicco" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200938681" name="" object-ref="3868mendoza" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201225771" name="" object-ref="3873roddy" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201338681" name="" object-ref="3905doppler" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200639511" name="" object-ref="3951zichichi" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200539821" name="" object-ref="3982kastel" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200640291" name="" object-ref="4029bridges" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201542721" name="" object-ref="4272entsuji" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201642961" name="" object-ref="4296vanwoerkom" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201343831" name="" object-ref="4383suruga" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201744351" name="" object-ref="4435holt" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200544401" name="" object-ref="4440tchantches" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200244921" name="" object-ref="4492debussy" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201545141" name="" object-ref="4514vilen" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201545411" name="" object-ref="4541mizuno" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200946071" name="" object-ref="4607seilandfarm" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201546661" name="" object-ref="4666dietz" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200446741" name="" object-ref="4674pauling" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201347651" name="" object-ref="4765wasserburg" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200647861" name="" object-ref="4786tatianina" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201348681" name="" object-ref="4868knushevia" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200749511" name="" object-ref="4951iwamoto" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201651121" name="" object-ref="5112kusaji" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201151431" name="" object-ref="5143heracles" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201152611" name="" object-ref="5261eureka" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200353811" name="" object-ref="5381sekhmet" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201854021" name="" object-ref="5402kejosmith" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s199754071" name="" object-ref="1992ax" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201554251" name="" object-ref="5425vojtech" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201454261" name="" object-ref="5426sharp" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200854741" name="" object-ref="5474gingasen" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200554771" name="" object-ref="5477holmes" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s200854811" name="" object-ref="5481kiuchi" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201655361" name="" object-ref="5536honeycutt" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201256461" name="" object-ref="1990tr" comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201556741" name="" object-ref="5674wolff " comment-refs="" reference-refs="" last-modified="" />
+		<moon id="s201658721" name="" object-ref="5872sugano" comment-refs="" reference-refs="" last-modified="" />
 	</moons>
 	<comments>
 	</comments>
